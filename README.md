@@ -9,9 +9,12 @@
 </h1>
 </div>
 
-This repository contains my solutions for [Microsoft Learn's Power BI Learning Path](https://learn.microsoft.com/en-us/certifications/exams/pl-300) as well as some questions found in the exam.
+This repository contains my solutions
+for [Microsoft Learn's Power BI Learning Path](https://learn.microsoft.com/en-us/certifications/exams/pl-300) as well as
+some questions found in the exam.
 
-Nevertheless, the answers of said questions aren't always correct, thus you might use it only as an additional resource and try to derive the answers from your understanding.
+Nevertheless, the answers of said questions aren't always correct, thus you might use it only as an additional resource
+and try to derive the answers from your understanding.
 
 # Structure
 
@@ -35,24 +38,27 @@ PL-300-Solutions
 - `datasets`: Datasets used in the Microsoft Learn Power BI Learning Path
 - `PL300`: Database backups and labs
 - `questions`: Some of the questions present in the PL-300 Exam
-- `solutions`: Solution `.pbix` files for each of the Learning Paths 
+- `solutions`: Solution `.pbix` files for each of the Learning Paths
 - `docs`: The PL-300 study guide.
 
 # FAQ
 
 ### What is the passing score for the Microsoft DA-100 Exam?
+
 You need to earn at least 70%, that is 700 (on a scale of 1-1000).
 
 ### How much time will be given to complete the Microsoft DA-100 exam?
+
 You will get 180 minutes to complete the exam.
 
 ### When does it expire?
 
-One year after it is obtained. Although, it [is free to renew](https://learn.microsoft.com/en-us/certifications/renew-your-microsoft-certification).
+One year after it is obtained. Although,
+it [is free to renew](https://learn.microsoft.com/en-us/certifications/renew-your-microsoft-certification).
 
 ### Any advice?
 
-There's a considerable amount of DAX & Power BI Service questions, so you might consider reinforcing that knowledge. 
+There's a considerable amount of DAX & Power BI Service questions, so you might consider reinforcing that knowledge.
 
 **Read the case studies (Litware, Contoso, Northwind, etc) before you take the exam in order to avoid losing time.**
 
