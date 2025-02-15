@@ -328,8 +328,6 @@ You enable Edit Interactions.
 - Select the pie chart and set the bar chart interaction to Filter.  
 - Select the pie chart and set the bar chart interaction to None.  
 - **Select the bar chart and set the pie chart interaction to Filter.**  
-- Select the bar chart and set the pie chart interaction to None.  
-
-****
+- Select the bar chart and set the pie chart interaction to None.
 
 
