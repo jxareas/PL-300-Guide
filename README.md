@@ -65,6 +65,7 @@ There's a considerable amount of DAX & Power BI Service questions, so you might 
 # Other Resources
 
 - [Article: How to pass the PL-300 Exam](https://medium.com/@costa.cityhustle/how-to-pass-the-pl-300-microsoft-power-bi-data-analyst-exam-5f09f87ae507)
+- [Free PL-300 study guide and practice questions (Skillmarked)](https://skillmarked.com/study-guides/pl-300)
 - [ExamTopics DA-100 Practice Exam](https://www.examtopics.com/exams/microsoft/da-100/)
 
 
